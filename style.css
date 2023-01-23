@@ -29,6 +29,7 @@ body {
     margin-top: 60px;
     background: rgba(217, 217, 217, 0.101);
     border: 3px solid rgba(255, 255, 255, 0.202);
+    -webkit-backdrop-filter: blur(22.9783px);
     backdrop-filter: blur(22.9783px);
     border-radius: 14px;
 }
