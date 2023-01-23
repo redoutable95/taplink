@@ -26,7 +26,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+    margin-top: 60px;
     background: rgba(217, 217, 217, 0.101);
     border: 3px solid rgba(255, 255, 255, 0.202);
     backdrop-filter: blur(22.9783px);
